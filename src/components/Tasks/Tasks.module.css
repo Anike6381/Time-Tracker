@@ -1,0 +1,12 @@
+.tasks {
+  color: blueviolet;
+  font-weight: bold;
+}
+
+.text {
+  color: rgb(149, 57, 85);
+}
+
+.total {
+  color: red;
+}
